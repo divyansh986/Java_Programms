@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Palindrom {
+class Check_Palindrom {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input the String:");
