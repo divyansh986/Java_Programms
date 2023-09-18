@@ -8,7 +8,7 @@ class Fibonacci_Series {
         int second=1;
         int i=0;
         while (i<n){
-            System.out.println(i+"th Term is " + first);
+            System.out.println(i+"th term is " + first);
             int third=first+second;
             first=second;
             second=third;
